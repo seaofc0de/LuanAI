@@ -23,8 +23,8 @@ These three modules operate under the **LuanAI** framework, offering a cohesive 
 LuanAI is a **closed-source project**.  
 For terms regarding free and commercial usage, please refer to the following:
 
-- [LICENSE.md](LICENSE): Licensing Terms  
-- [EULA.md](EULA.md): End User License Agreement
+- [Licensing Terms](LICENSE)
+- [End User License Agreement](EULA.md)
 
 ## Contact
 
